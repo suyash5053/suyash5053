@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RestAPI, Stimulus, Java, Python, Golang and other Development tools**
 
-- 👯 I’m looking to collaborate on [Open Source](Web Development Projects)
+- 👯 I’m looking to collaborate on **Open Source, Web Development Projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/suyashsrivastava-/**
 
