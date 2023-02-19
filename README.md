@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **Verified On Spotify and Official artist Channel on Youtube**
 
+- Hello, I'm a 2nd year student of BSC (H) CS. Till now i was contributing to projects on remote level but now will contribute to open source. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/suyash5053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suyash5053" height="30" width="40" /></a>
