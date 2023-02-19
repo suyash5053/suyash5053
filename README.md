@@ -3,6 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 <p align="left"> <a href="https://twitter.com/suyash5053" target="blank"><img src="https://img.shields.io/twitter/follow/suyash5053?logo=twitter&style=for-the-badge" alt="suyash5053" /></a> </p>
 
+- **Hello, I'm a 2nd year student of BSC (H) CS. Till now i was contributing to projects on remote level but now will contribute to open source.**
+
 - 🌱 I’m currently learning **RestAPI, Stimulus, Java, Python, Golang and other Development tools**
 
 - 👯 I’m looking to collaborate on **Open Source, Web Development Projects**
@@ -10,8 +12,6 @@
 - 📫 How to reach me **https://www.linkedin.com/in/suyashsrivastava-/**
 
 - ⚡ Fun fact **Verified On Spotify and Official artist Channel on Youtube**
-
-- Hello, I'm a 2nd year student of BSC (H) CS. Till now i was contributing to projects on remote level but now will contribute to open source. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
