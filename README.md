@@ -9,7 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source, Web Development Projects**
 
-- 📫 How to reach me **https://www.linkedin.com/in/suyashsrivastava-/**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/suyashsrivastava-/)
+- [Twitter](https://twitter.com/Suyash5053)**
 
 - ⚡ Fun fact **Verified On Spotify and Official artist Channel on Youtube**
 
