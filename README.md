@@ -29,4 +29,4 @@
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyash5053&show_icons=true&locale=en" alt="suyash5053" /></p> -->
-<p>Thanks for giving your time.<p>
+<p align="center">Thanks for giving your time.<p>
