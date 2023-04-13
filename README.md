@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash Srivastava</h1>
-<h3 align="center">A Open Source Enthusiast and passionate developer from India</h3>
+<h3 align="center">An Open Source Enthusiast and passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 <p align="left"> <a href="https://twitter.com/suyash5053" target="blank"><img src="https://img.shields.io/twitter/follow/suyash5053?logo=twitter&style=for-the-badge" alt="suyash5053" /></a> </p>
 
