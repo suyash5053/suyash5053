@@ -5,7 +5,7 @@
 
 - **Hello, I'm a senior student of BSC (H) CS. I love to work with startups and new companies to explore new technologies, learn and adapt**
 
-- 🌱 I’m currently learning **RestAPI, Stimulus, NextJS, Golang and other Development tools**
+- 🌱 I’m currently learning **Redis, TCP Servers, NextJS, OCaml, Rust and other Development tools**
 
 - 👯 I’m looking to collaborate on **Open Source, Web Development Projects**
 
